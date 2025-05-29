@@ -1,0 +1,7 @@
+# Ignore large model files
+yolov8x.pt
+Foodimg2Ing/data/modelbest.ckpt
+best_multi_image_model.pth
+complete_multi_image_dish_classifier.pth
+dish_classifier_model.pth
+
